@@ -1,6 +1,6 @@
 # first_repository
 
-Victor Romero
+*Victor Romero
 
 Segundo cambio
 
